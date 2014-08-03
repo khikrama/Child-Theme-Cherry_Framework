@@ -1,14 +1,16 @@
 /*--
-	Theme Name: Ikrama Cherry
-	Theme URI: 
-	Description: 
-	Author: 
-	Author URL: 
+	Theme Name: Simple Corporate
+	Theme URI: http://ikrama.info/theme/;
+	Description: This is a simple corporate wordpress theme. It developed by CherryFramework.
+	Author: Khandaker Ikrama
+	Author URL: http://ikrama.info;
 	Template: CherryFramework
-	Version: 1.0
+	Version: 1.0.0
 	License URI: 
-	Tags:
+	Tags: 
 --*/
 
-
-@import url("../CherryFramework/style.css");
+/* ----------------------------------------
+	Please, You may put custom CSS here
+---------------------------------------- */
+@import url("main-style.css");
